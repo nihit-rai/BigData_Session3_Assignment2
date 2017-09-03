@@ -1,0 +1,16 @@
+0	Samsung|Optima|14|Madhya Pradesh|132401|14200
+46	Onida|Lucid|18|Uttar Pradesh|232401|16200
+88	Akai|Decent|16|Kerala|922401|12200
+123	Lava|Attention|20|Assam|454601|24200
+160	Zen|Super|14|Maharashtra|619082|9200
+197	Samsung|Optima|14|Madhya Pradesh|132401|14200
+243	Onida|Lucid|18|Uttar Pradesh|232401|16200
+285	Onida|Decent|14|Uttar Pradesh|232401|16200
+360	Lava|Attention|20|Assam|454601|24200
+397	Zen|Super|14|Maharashtra|619082|9200
+434	Samsung|Optima|14|Madhya Pradesh|132401|14200
+519	Samsung|Decent|16|Kerala|922401|12200
+557	Lava|Attention|20|Assam|454601|24200
+594	Samsung|Super|14|Maharashtra|619082|9200
+635	Samsung|Super|14|Maharashtra|619082|9200
+676	Samsung|Super|14|Maharashtra|619082|9200
